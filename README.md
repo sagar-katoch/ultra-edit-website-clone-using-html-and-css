@@ -1,59 +1,69 @@
 UltraEdit Website Clone
-A responsive front-end clone of the UltraEdit official website, built using only HTML and CSS. This project replicates the design, layout, and responsiveness of the original homepage, aiming to strengthen front-end development and layout skills.
+This is a fully responsive front-end clone of the UltraEdit homepage, built using only HTML and CSS. It replicates the design and layout of the original site for educational and practice purposes.
 
-🌐 Live Preview
-Coming soon or host it using GitHub Pages.
+🧠 Project Purpose
+This project was created to:
+
+Practice real-world web layout techniques
+
+Strengthen skills in responsive design
+
+Understand structure and styling without frameworks
+
+Learn how to closely match an existing website visually
 
 ✨ Features
-Fully responsive layout
+✅ Pixel-perfect clone of the UltraEdit homepage
 
-Pixel-perfect UI clone
+✅ Pure HTML5 & CSS3 (no JS or frameworks)
 
-Semantic HTML structure
+✅ Responsive design for mobile, tablet, and desktop
 
-Clean, modular CSS
+✅ Clean, modular CSS using Flexbox and Grid
 
-Font and color matching based on the original website
+✅ Organized file and folder structure
 
-📁 Project Structure
-php
+🗂️ Project Structure
+bash
 Copy
 Edit
 ultra-edit-website-clone/
-├── index.html
-├── style.css
-├── assets/
-│   └── images/
-🛠️ Built With
-HTML5
-
-CSS3
-
-Flexbox & Grid
-
-Google Fonts (if applicable)
-
+│
+├── index.html            # Main HTML file
+├── style.css             # Main CSS stylesheet
+├── /assets               # Static files (images, icons, etc.)
+│   └── /images
+├── /fonts                # (Optional) Custom fonts if used
+└── README.md             # Project documentation
 🚀 Getting Started
-Clone the repo:
-
+Clone the Repository
 bash
 Copy
 Edit
 git clone https://github.com/sagar-katoch/ultra-edit-website-clone-using-html-and-css.git
 cd ultra-edit-website-clone-using-html-and-css
-Open index.html in your browser to view the project.
+Open in Browser
+Just open index.html with your preferred browser:
 
-📌 Learning Goals
-Practicing responsive design without frameworks
+bash
+Copy
+Edit
+open index.html
+Or use VS Code’s Live Server extension for auto-refresh.
 
-Recreating real-world website layouts
+🧰 Built With
+HTML5 – Semantic and accessible structure
 
-Improving CSS architecture and organization
+CSS3 – Layout, styling, and responsiveness
 
-📸 Screenshots
-(Optional: Add screenshots of your clone alongside the original site for visual comparison)
+Flexbox & CSS Grid – For modern, flexible design
 
-📃 License
-This project is for educational purposes only and is not affiliated with UltraEdit.
+Media Queries – To adapt to various screen sizes
+
+![alt text](image.png)
+
+
+📄 License
+This project is for educational and practice purposes only. It is not affiliated with or endorsed by UltraEdit or its developers.
 
 
